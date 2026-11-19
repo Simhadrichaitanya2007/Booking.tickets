@@ -1,0 +1,8 @@
+{
+  "name": "AI Rail Journey",
+  "description": "An interactive Indian train ticket booking prototype with route search, authentic coach berth selection, demo digital tickets, local booking management, and RailMate AI travel guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
